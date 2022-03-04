@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # React Landing Website
- Demo Link: https://react-landing-website.netlify.app/
+ Demo Link: https://my-landing-website.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
